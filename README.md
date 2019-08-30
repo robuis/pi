@@ -16,7 +16,7 @@ After this we will build up a few docker containers.
 
 ## Setting up the Pi
 
-Step one is to [download](https://www.raspberrypi.org/downloads/raspbian/ "raspbian download page) the pi image
+Step one is to [download](https://www.raspberrypi.org/downloads/raspbian/ "raspbian download page") the pi image
 I will download the  [Raspbian Buster Lite torrent](https://downloads.raspberrypi.org/raspbian_lite_latest.torrent "raspbian_lite_latest.torrent" )
 Unzip the image before you burn to a flash drive
 
