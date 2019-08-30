@@ -43,7 +43,7 @@ Might as well change the pi users password at this time too.
 
 To configure a pi image to accept ssh connections add a file called ssh no extention to the boot partation.
 ` cd /boot `
-` sudo touch rss `
+` sudo touch ssh `
 
 ### Post Pi install configurations steps.
 
