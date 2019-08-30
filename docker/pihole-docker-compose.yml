@@ -12,8 +12,8 @@ services:
       - "80:80/tcp"
       - "443:443/tcp"
     environment:
-      TZ: 'Pacific/Honolulu'
-      WEBPASSWORD: 'The1andonly'
+      TZ: 'Pacific/Honolulu' # yes I live in HI
+      WEBPASSWORD: 'mypassword'
     # Volumes store your data between container upgrades
     volumes:
        - './etc-pihole/:/etc/pihole/'
